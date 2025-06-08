@@ -22,7 +22,7 @@ Kata sandi default untuk mengakses Alya File Manager adalah: **alya**
 1. Unduh atau kloning repositori ini ke server Anda.
 2. Pindahkan file script ke direktori web server (misalnya, `/var/www/html/`).
 3. Pastikan server Anda mendukung PHP (atau bahasa pemrograman yang digunakan script ini).
-4. Buka browser dan akses URL tempat script diunggah (misalnya, `http://yourdomain.com/alyafilemanager`).
+4. Buka browser dan akses URL tempat script diunggah (misalnya, `http://yourdomain.com/alyafilemanager.php`).
 5. Masukkan kata sandi default (**alya**) untuk masuk.
 
 ## Disclaimer
