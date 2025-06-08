@@ -1,5 +1,5 @@
 <?php
-//paswords: alya
+//passwords: alya
 $const = 39456;
 $realConst = ($const - 123) / 7;
 $secondary = "48696464656e4c61796572393837363534333231";
