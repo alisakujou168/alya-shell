@@ -25,8 +25,6 @@ Kata sandi default untuk mengakses Alya File Manager adalah: **alya**
 4. Buka browser dan akses URL tempat script diunggah (misalnya, `http://yourdomain.com/alyafilemanager.php`).
 5. Masukkan kata sandi default (**alya**) untuk masuk.
 
-## Disclaimer
-**Tolong Gunakanan Dengan Bijak**
 
 ## Lisensi
 Script ini dilisensikan di bawah [MIT License](LICENSE). Silakan gunakan sesuai ketentuan lisensi.
